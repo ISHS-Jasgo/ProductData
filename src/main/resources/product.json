@@ -1,0 +1,18 @@
+{
+  "상품명1": {
+    "name": "",
+    "product_num": 1234567,
+    "description": "",
+    "calorie": 1000,
+    "nutrient": {
+      "carbohydrate": 123,
+      "protein": 123,
+      "fat": 123,
+      "sodium": 1234,
+      "sugar": 1234,
+      "cholesterol": 123,
+      "saturated fat": 123,
+      "trans fat": 123
+    }
+  }
+}

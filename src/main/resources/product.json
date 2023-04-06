@@ -11,8 +11,8 @@
       "sodium": 1234,
       "sugar": 1234,
       "cholesterol": 123,
-      "saturated fat": 123,
-      "trans fat": 123
+      "saturatedfat": 123,
+      "transfat": 123
     }
   }
 }
